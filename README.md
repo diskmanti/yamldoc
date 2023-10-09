@@ -33,5 +33,5 @@ This Bash script allows you to extract comments and annotations from one or more
 ## Example
 
 ```bash
-./yamldoc.sh -p "# docs.de" -a "lhind.de" -f example.yaml another.yaml -o output.md
+./yamldoc.sh -p "# docs" -a "diskmanti.me" -f example.yaml another.yaml -o output.md
 ```
